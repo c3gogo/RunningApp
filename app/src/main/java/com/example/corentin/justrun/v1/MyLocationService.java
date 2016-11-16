@@ -62,7 +62,6 @@ public class MyLocationService extends Service implements GoogleApiClient.Connec
 
     @Override
     public IBinder onBind(Intent intent) {
-        // TODO: Return the communication channel to the service.
         throw new UnsupportedOperationException("Not yet implemented");
     }
 
