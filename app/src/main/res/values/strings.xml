@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JustRun</string>
+    <string name="runapp">RunApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commencer">Commencer</string>
+    <string name="activitees">Activitées</string>
+    <string name="prog">Programmes</string>
+    <string name="header">Header</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string-array name="items">
+        <item>Historique</item>
+        <item>Planning</item>
+
+    </string-array>
+</resources>

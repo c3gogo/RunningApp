@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/commencer"
+            android:title="@string/commencer"/>
+        <item
+            android:id="@+id/last_runs"
+            android:title="@string/activitees"/>
+        <item
+            android:id="@+id/schedule"
+            android:title="@string/prog"/>
+    </group>
+
+</menu>
