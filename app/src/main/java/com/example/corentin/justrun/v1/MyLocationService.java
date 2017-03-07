@@ -26,6 +26,7 @@ public class MyLocationService extends Service implements GoogleApiClient.Connec
     public MyLocationService() {
 
         //Setting location requests
+        mLocationListener = new MyLocationListener();
         mLocationRequest = new LocationRequest();
         mLocationRequest.setInterval(1000);
         mLocationRequest.setFastestInterval(1000);
